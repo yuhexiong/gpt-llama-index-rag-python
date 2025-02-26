@@ -13,7 +13,7 @@
 pip install openai==1.64.0 llama_index==0.12.19
 ```
 
-自行去 OpenAI 生成 Key(必要時須付費)，更新 .env  
+自行去 [OpenAI](https://platform.openai.com/) 生成 Key(必要時須付費)，更新 .env  
 data 下面放小抄，已有兩個範例資料  
 程式讀完小抄以後會放在 `index_storage` 底下  
 
