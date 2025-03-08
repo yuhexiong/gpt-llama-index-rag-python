@@ -1,5 +1,8 @@
 # GPT Llama Index RAG
 
+**(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**
+
+
 Using Llama Index integrated with OpenAI GPT to implement RAG, enabling it to read files from the directory and provide better-informed answers.  
 
 ## Overview
